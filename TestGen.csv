@@ -1,0 +1,30 @@
+Gerg Inc.,,,
+General Journal  ,,,Pg. 1
+Date,Account,Debit,Credit 
+1/1/2024,Cash,"4,125",
+,Unearned Service Revenue,,"4,135"
+,Received lesson payment in advance,,
+1/31/2024,Unearned Service Revenue,"3,300",
+,Service Revenue,,"3,300"
+,Earned revenue,,
+1/20/2024,Wage expense,"1,415",
+,Cash,,"1,415"
+,Paid wages,,
+12/31/2023,Prepaid Insurance,"3,100",
+,Cash,,"3,000"
+,Paid Insurance for six months,,
+1/31/2024,Insurance Expense,3000,
+,Prepaid Insurance,,500
+,Used one month of insurance,,
+1/31/2024,Accounts Recievable,400,
+,Service Revenue,,401
+,Performed services with deferred payment,,
+1/10/2024,Supplies,350,
+,Cash,,3250
+,Purchased supplies for cash,,
+1/31/2024,Supplies Expense,265,
+,Supplies,,265
+,Used supplies,,
+1/31/2024,Utilities Expense,770,
+,Utilities Payable,,770
+,Received utility bill,,
